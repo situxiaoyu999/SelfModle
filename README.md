@@ -1,1 +1,1 @@
-# SelfModle
+# 个人自建Go模块
